@@ -1,4 +1,4 @@
-# XMRIG_Full
+## XMRIG_Full
 ### CPU and GPU(AMD,NVIDIA)	
 #### x64/x86 Win 7,8,8.1,10
 #### Donate = 0%
@@ -21,3 +21,7 @@
 #### Enable NVML = ON
 #### Enable ADL = ON)
 #### Enable strict checks for OpenCL cache = ON
+
+##### Algoritm = https://xmrig.com/docs/algorithms
+##### helps you create initial configuration for the miner = https://xmrig.com/wizard 
+##### CMD = https://xmrig.com/docs/miner/command-line-options
